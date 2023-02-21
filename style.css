@@ -1,0 +1,41 @@
+.m-w-20 {
+    max-width: 20vw;
+}
+
+html,
+body {
+    display: block;
+    margin: 8px;
+}
+
+.button {
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    width: 60px;
+}
+
+
+.row {
+    margin: 8px 5px;
+    width: 60vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.row input {
+    font-size: 20px;
+    margin: 0;
+    padding: 10px 0px;
+    border: 2px solid black;
+    border-radius: 6px;
+
+}
+
+.btn-background {
+    background-color: aqua;
+}
